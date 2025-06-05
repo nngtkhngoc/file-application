@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sesa825112\\source\\repos\\FileApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BCF29F-E305-4CCD-BE7F-4CE94E9F91BA}|FileApplication\\FileApplication.csproj|c:\\users\\sesa825112\\source\\repos\\fileapplication\\fileapplication\\views\\file\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67BCF29F-E305-4CCD-BE7F-4CE94E9F91BA}|FileApplication\\FileApplication.csproj|solutionrelative:fileapplication\\views\\file\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BCF29F-E305-4CCD-BE7F-4CE94E9F91BA}|FileApplication\\FileApplication.csproj|c:\\users\\sesa825112\\source\\repos\\fileapplication\\fileapplication\\models\\fileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BCF29F-E305-4CCD-BE7F-4CE94E9F91BA}|FileApplication\\FileApplication.csproj|solutionrelative:fileapplication\\models\\fileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BCF29F-E305-4CCD-BE7F-4CE94E9F91BA}|FileApplication\\FileApplication.csproj|c:\\users\\sesa825112\\source\\repos\\fileapplication\\fileapplication\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BCF29F-E305-4CCD-BE7F-4CE94E9F91BA}|FileApplication\\FileApplication.csproj|solutionrelative:fileapplication\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BCF29F-E305-4CCD-BE7F-4CE94E9F91BA}|FileApplication\\FileApplication.csproj|c:\\users\\sesa825112\\source\\repos\\fileapplication\\fileapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67BCF29F-E305-4CCD-BE7F-4CE94E9F91BA}|FileApplication\\FileApplication.csproj|solutionrelative:fileapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BCF29F-E305-4CCD-BE7F-4CE94E9F91BA}|FileApplication\\FileApplication.csproj|c:\\users\\sesa825112\\source\\repos\\fileapplication\\fileapplication\\views\\file\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{67BCF29F-E305-4CCD-BE7F-4CE94E9F91BA}|FileApplication\\FileApplication.csproj|solutionrelative:fileapplication\\views\\file\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALgUAAAAAAAAAAAkwMkUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-05T13:47:14.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\sesa825112\\source\\repos\\FileApplication\\FileApplication\\Views\\File\\Upload.cshtml",
+              "RelativeDocumentMoniker": "FileApplication\\Views\\File\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\sesa825112\\source\\repos\\FileApplication\\FileApplication\\Views\\File\\Upload.cshtml",
+              "RelativeToolTip": "FileApplication\\Views\\File\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T08:35:51.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sesa825112\\source\\repos\\FileApplication\\FileApplication\\Views\\File\\Index.cshtml",
+              "RelativeDocumentMoniker": "FileApplication\\Views\\File\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sesa825112\\source\\repos\\FileApplication\\FileApplication\\Views\\File\\Index.cshtml",
+              "RelativeToolTip": "FileApplication\\Views\\File\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBQAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T08:29:45.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileController.cs",
+              "DocumentMoniker": "C:\\Users\\sesa825112\\source\\repos\\FileApplication\\FileApplication\\Controllers\\FileController.cs",
+              "RelativeDocumentMoniker": "FileApplication\\Controllers\\FileController.cs",
+              "ToolTip": "C:\\Users\\sesa825112\\source\\repos\\FileApplication\\FileApplication\\Controllers\\FileController.cs",
+              "RelativeToolTip": "FileApplication\\Controllers\\FileController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwFoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:51:41.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sesa825112\\source\\repos\\FileApplication\\FileApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FileApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sesa825112\\source\\repos\\FileApplication\\FileApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FileApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABkAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T06:37:01.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sesa825112\\source\\repos\\FileApplication\\FileApplication\\Models\\FileViewModel.cs",
+              "RelativeDocumentMoniker": "FileApplication\\Models\\FileViewModel.cs",
+              "ToolTip": "C:\\Users\\sesa825112\\source\\repos\\FileApplication\\FileApplication\\Models\\FileViewModel.cs",
+              "RelativeToolTip": "FileApplication\\Models\\FileViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T13:26:02.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
